@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tender0401
+- 👋 Hi, I’m tender
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on project
